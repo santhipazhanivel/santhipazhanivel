@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santhipazhanivel
 - 👀 I’m interested in ...machine learning
-- 🌱 I’m currently learning ...machine learning
+- 🌱 I’m worked as Associate Data Engineer in thalas Data learning pvt , I have experiance in machine learing model training Document pre processing ,text preprocessing, Audio preprocesing in health care using python pakage and google Api ...
 -- 📫 How to reach me ...santhipv91@gmail.com
 
 <!---
